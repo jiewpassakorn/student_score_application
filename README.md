@@ -1,4 +1,4 @@
-# flutter_firebase
+# Student Score Application
 
 A new Flutter project.
 
